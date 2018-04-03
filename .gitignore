@@ -1,7 +1,6 @@
 node_modules/
 -f
 yarn-error.log
-yarn.lock
 public/bundle.js
 public/bundle.js.map
 public/styles.css
